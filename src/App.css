@@ -1,1 +1,21 @@
-/*Schrijf hier jouw css voor jouw formulier*/
+
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin-left: 40px;
+}
+.label .name {
+    margin-left: 40px;
+
+    }
+
+
+
